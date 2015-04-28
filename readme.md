@@ -16,3 +16,11 @@ data-set from Wikipedia on a high-availability cluster with a real-time (sub-sec
 response time.
 
 Slides: http://slides.com/clusterpoint/bdtc
+
+### To Install
+
+getcomposer.com
+
+    php composer install
+
+copy password-sample.php into password.php and edit.
